@@ -1,0 +1,13 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Copyright © ${date?date?string("yyyy")} Dennis Schulmeister-Zimolong
+${licensePrefix}
+${licensePrefix}E-Mail: dhbw@windows3.de
+${licensePrefix}Webseite: https://www.wpvs.de/
+${licensePrefix}
+${licensePrefix}Dieser Quellcode ist lizenziert unter einer
+${licensePrefix}Creative Commons Namensnennung 4.0 International Lizenz.
+<#if licenseLast??>
+${licenseLast}
+</#if>
