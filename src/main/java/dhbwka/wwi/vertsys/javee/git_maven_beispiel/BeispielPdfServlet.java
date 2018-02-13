@@ -24,7 +24,7 @@ import org.toucanpdf.model.FontFamilyType;
 import org.toucanpdf.model.ImageType;
 
 /**
- * Servlet, dass ein kleines PDF-Dokument erzeugt. Vgl. http://toucanpdf.org/
+ * Servlet, das ein kleines PDF-Dokument erzeugt. Vgl. http://toucanpdf.org/
  */
 @WebServlet(urlPatterns = {"/beispiel.pdf"})
 public class BeispielPdfServlet extends HttpServlet {
