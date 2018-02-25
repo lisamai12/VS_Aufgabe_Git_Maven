@@ -4,7 +4,7 @@
 
 
     <!--Metadaten dieses Projekts -->
-    <groupId>dhbwka.wwi.vertsys.javee</groupId>
+    <groupId>dhbwka.wwi.vertsys.javaee</groupId>
     <artifactId>Git_Maven_Beispiel</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>

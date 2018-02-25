@@ -7,7 +7,7 @@
  * Dieser Quellcode ist lizenziert unter einer
  * Creative Commons Namensnennung 4.0 International Lizenz.
  */
-package dhbwka.wwi.vertsys.javee.git_maven_beispiel;
+package dhbwka.wwi.vertsys.javaee.git_maven_beispiel;
 
 import java.io.IOException;
 import java.io.InputStream;
